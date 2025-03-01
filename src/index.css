@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "views-sans";
+    src: url(./fonts/ViewsSans-Regular.ttf);
+}
+
+@theme {
+    --font-family-views-sans: "views-sans", sans-serif;
+}
+
+.font-views-sans {
+    font-family: var(--font-family-views-sans);
+}
