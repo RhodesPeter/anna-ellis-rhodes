@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Peter Rhodes",
   "license": "ISC",
+  "scripts": {
+    "dev": "npx parcel src/index.html"
+  },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.9",
     "parcel": "^2.13.3",
