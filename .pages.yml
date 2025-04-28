@@ -1,1 +1,9 @@
-hello
+content:
+  - name: homepage
+    label: Homepage
+    path: src/_homepage
+    type: collection
+    fields:
+      - name: hero
+        label: Hero
+        type: text
