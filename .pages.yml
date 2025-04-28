@@ -4,6 +4,12 @@ content:
     path: src/_homepage
     type: collection
     fields:
-      - name: hero
-        label: Hero
+      - name: about
+        label: About
+        type: text
+      - name: services
+        label: Services
+        type: text
+      - name: Recent_activity
+        label: Recent activity
         type: text
