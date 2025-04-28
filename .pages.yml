@@ -3,4 +3,3 @@ content:
     label: Homepage
     path: src/_homepage
     type: collection
-    fields: one, two, three
