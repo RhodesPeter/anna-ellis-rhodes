@@ -1,5 +1,0 @@
-content:
-  - name: homepage
-    label: Homepage
-    path: src/_homepage
-    type: collection
