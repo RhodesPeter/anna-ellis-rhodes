@@ -1,0 +1,3 @@
+---
+hero: Hero text here
+---
