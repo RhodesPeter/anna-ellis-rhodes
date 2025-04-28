@@ -6,7 +6,7 @@ content:
     fields:
       - name: about
         label: About
-        type: text
+        type: object
         fields:
           - name: title
             label: Title
