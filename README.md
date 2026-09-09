@@ -6,4 +6,4 @@ rm -rf dist
 Make new dist folder:
 npm run build
 
-Copy dist folder to gh-pages branch but keep the CNAME and favicon files
+Copy dist folder and CNAME file to gh-pages branch root
