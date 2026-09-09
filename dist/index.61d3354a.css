@@ -480,10 +480,6 @@
     border-color: #338744;
   }
 
-  .bg-\[\#338744\] {
-    background-color: #338744;
-  }
-
   .bg-\[\#F2F2F2\] {
     background-color: #f2f2f2;
   }
@@ -621,10 +617,6 @@
   .font-bold {
     --tw-font-weight: var(--font-weight-bold);
     font-weight: var(--font-weight-bold);
-  }
-
-  .text-\[\#338744\] {
-    color: #338744;
   }
 
   .text-\[1\.2\] {
